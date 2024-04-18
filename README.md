@@ -17,3 +17,5 @@
 ### My Experiences 🙌
 - [SocialMediaApp](https://github.com/kpia0412/doanmangxahoi/) - (Sep'23-De'23)
 
+![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+<br />
