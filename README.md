@@ -39,18 +39,18 @@
 #### Registration | Login
 |<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/dangki.jpg" alt="feed example" width="220">|<img src="img/dangki2.jpg" alt="feed example" width="220">|
 
+
 #### Profile | Edit Profile | Account Setting
 |<img src="img/pro.jpg" alt="feed example" width="220">|<img src="img/editpro.jpg" alt="feed example" width="220">|<img src="img/caidat.jpg" alt="feed example" width="220">|
 
-#### Search User | User Profile | User Post
-|<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
 
+#### Home | Seen/Unseen Story
+|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/story.jpg" alt="feed example" width="220">|<img src="img/themtin.jpg" alt="feed example" width="220">|
 
-#### Home feed | Seen/Unseen Story
-|<img src="img/story.jpg" alt="feed example" width="220">|<img src="img/themtin.jpg" alt="feed example" width="220">|
 
 #### Comment | Post Photo
 |<img src="img/binhluan.jpg" alt="feed example" width="220">|<img src="img/danganh.jpg" alt="feed example" width="220">|
+
 
 #### Mess | Mess
 |<img src="img/mess.jpg" alt="feed example" width="220">|<img src="img/tinnhan.jpg" alt="feed example" width="220">|
