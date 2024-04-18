@@ -1,97 +1,4 @@
-<a name="readme-top"></a>
-
-***NOTE: Demo for this project [here](https://github.com/2022-csc-59866/movierate/tree/main/backend)!***
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub][github-shield]][github-url]
-
-# [MovieRate](https://github.com/kpia0412/doanmangxahoi/) | Movie Review Platform
-
-<br />
-<div align="center">
-  <a href="https://app.movierate.tv/">
-    <img src="logo.png" alt="Logo" width="200" height="80">
-  </a>
-
-<h3 align="center">INLOVE</h3>
-
-  <p align="center">
-    MovieRate is a movie review platform to give the chance to people to rate movies/series and also make them aware if something is worth the time, effort, and money to watch.
-    <br />
-    <br />
-    <br />    ·
-    <a href="https://github.com/kpia0412/doanmangxahoi/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/kpia0412/doanmangxahoi/issues">Request Feature</a>
-  </p>
-</div>
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#key-features">Key Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://app.movierate.tv/)
-
-### MovieRate tries to solve the following problem statement in the film industry
-
-- **People need to be aware of what they are going to watch so that they know if that movie or series is worth watching!**
-
-### Key Features
-
-1. **Directors must be able to create an account:**
-    - Insert pictures and videos to promote their movies or series.
-    - Include the cast.
-    - Insert the release date.
-    - Include the genres.
-    - Insert language.
-    - Insert film rating.
-    - Edit a movie or series.
-    - Delete a movie or series.
-    - Add actors.
-    - Edit actors.
-    - Delete actors.
-2. **Allow movies and series to be featured on the carousel of the home page of the full-stack application.**
-3. **Allow users to create an account and also give them the option to sign in using a One Time Password (OTP).**
-4. **Display streaming sercives using the public APIs WatchMode API and Streaming Availability API.**
-5. **A fully functional review system for each movie and series. Enable users to write reviews and comments for each movie and series.**
-6. **Reset password functionality for both the director account and the user account.**
-7. **Infinite scroll to fetch more movies, series, and actors as users keep scrolling down the list.**
-8. **Dark mode functionality where a button will allow users to toggle between light and dark mode.**
-9. **Live search functionality where users can search for movies, series, and actors.**
-10. **Create movies/series/documentaries.**
-11. **Create actors.**
-12. **Give the ability to users to become Admins and contribute to the open soruce moview review platform MovieRate.**
-13. **Third-party Authentication using Passport.js for Google and GitHub.**
-14. **Fully functional and responsive web application with the main focus on desktops, mobile devices, and tables.**
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
+# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram-clone
 
 ### Built With
 
@@ -101,3 +8,61 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+## Connect with me:
+[<img align="left" alt="androrealm | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://rb.gy/r4yzzi)
+[<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nguyenluuvinh_/).
+
+## Features
+1. Login, Signup,Logout,Forgot password (with email verification)
+2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in).
+3. Follow, Unfollow, Profile views.
+4. Post photo posts from camera or gallery
+   * Like posts
+      * View all likes on a post
+   * Comment on posts
+        * View all comments on a post
+5. Edit your profile (username, Bio, social links,Name).
+6. Conversation with your freinds.
+7. Message emoji, Text.
+8. Get Notifications.
+9. Search for users
+    * Search based on usernames
+10. Post Story from camera or gallery
+      * Views
+        * View all Views on a Story
+      * Delete
+        * Delete Story
+11. Offline Capability
+
+## Screenshots
+#### Registration | Login
+| ![Registration](registration.gif) | 
+  <img src="https://user-images.githubusercontent.com/60619133/95440450-94aba580-0976-11eb-9794-254d7c643c22.jpg" alt="feed example" width = "220"> |
+
+#### Profile | Edit Profile | Account Setting
+| ![profile](profile.gif)|<img src="https://user-images.githubusercontent.com/60619133/95450074-5799e000-0983-11eb-94be-1514099a071d.jpg" alt="feed example" width = "220">|  <img src="https://user-images.githubusercontent.com/60619133/95440441-937a7880-0976-11eb-8a1f-cb445364fd75.png" alt="feed example" width = "220">
+|<img src="https://user-images.githubusercontent.com/60619133/95440444-94130f00-0976-11eb-81c2-2c5bb0fcf963.jpg" alt="feed example" width = "220">|
+
+#### Search User | User Profile | User Post
+|<img src="https://user-images.githubusercontent.com/60619133/95440437-92e1e200-0976-11eb-9ab8-56732f531628.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440435-92494b80-0976-11eb-91a1-726b032f0c11.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440394-878eb680-0976-11eb-8a37-f2e0c2899778.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440415-8e1d2e00-0976-11eb-8a58-34a745e83731.jpg" alt="feed example" width = "220">|
+
+
+#### Home feed | Seen/Unseen Story
+|  <img src="https://user-images.githubusercontent.com/60619133/95440424-907f8800-0976-11eb-9ead-b455529884f5.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440399-89587a00-0976-11eb-8e6f-ac27f8528b2e.jpg" alt="feed example" width = "220">|
+
+#### Comment | Post Photo | Notification Panel
+|![Comment](comment.gif) |<img src="https://user-images.githubusercontent.com/60619133/95440445-94aba580-0976-11eb-9bab-c4fb3b66c915.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440403-8b223d80-0976-11eb-86ee-5b395df5009e.jpg" alt="feed example" width = "220">
+
+#### Conversation | Push Notification
+|<img src="https://user-images.githubusercontent.com/60619133/95440411-8d849780-0976-11eb-8ca7-b82a6a0632e3.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440431-91181e80-0976-11eb-90c1-c3e157d294c0.jpg" alt="feed example" width = "220">|
+
+## Module used
+* [Cardview](https://developer.android.com/jetpack/androidx/releases/cardview)
+* [Retrofit](https://github.com/square/retrofit)
+* [Image Croper](https://github.com/ArthurHub/Android-Image-Cropper)
+* [StoriesProgressView](https://github.com/shts/StoriesProgressView)
+* [Glide](https://github.com/bumptech/glide)
+* [Country Code Picker](https://github.com/hbb20/CountryCodePickerProject)
+* [Universal image loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [Circle Image View](https://github.com/hdodenhof/CircleImageView)
