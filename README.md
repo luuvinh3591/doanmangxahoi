@@ -49,11 +49,11 @@
 #### Home feed | Seen/Unseen Story
 |<img src="img/story.jpg" alt="feed example" width="220">|<img src="img/themtin.jpg" alt="feed example" width="220">|
 
-#### Comment | Post Photo | Notification Panel
-|<img src="img/binhluan.jpg" alt="feed example" width="220">|<img src="img/thembaiviet.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
+#### Comment | Post Photo
+|<img src="img/binhluan.jpg" alt="feed example" width="220">|<img src="img/danganh.jpg" alt="feed example" width="220">|
 
-#### Conversation | Push Notification
-|<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
+#### Mess | Mess
+|<img src="img/mess.jpg" alt="feed example" width="220">|<img src="img/tinnhan.jpg" alt="feed example" width="220">|
 
 ## Module used
 * [Cardview](https://developer.android.com/jetpack/androidx/releases/cardview)
