@@ -37,26 +37,23 @@
 
 ## Screenshots
 #### Registration | Login
-| ![Registration](registration.gif) | 
-  <img src="https://user-images.githubusercontent.com/60619133/95440450-94aba580-0976-11eb-9794-254d7c643c22.jpg" alt="feed example" width = "220"> |
+|<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/dangki.jpg" alt="feed example" width="220">|<img src="img/dangki2.jpg" alt="feed example" width="220">|
 
 #### Profile | Edit Profile | Account Setting
-| ![profile](profile.gif)|<img src="https://user-images.githubusercontent.com/60619133/95450074-5799e000-0983-11eb-94be-1514099a071d.jpg" alt="feed example" width = "220">|  <img src="https://user-images.githubusercontent.com/60619133/95440441-937a7880-0976-11eb-8a1f-cb445364fd75.png" alt="feed example" width = "220">
-|<img src="https://user-images.githubusercontent.com/60619133/95440444-94130f00-0976-11eb-81c2-2c5bb0fcf963.jpg" alt="feed example" width = "220">|
+|<img src="img/pro.jpg" alt="feed example" width="220">|<img src="img/editpro.jpg" alt="feed example" width="220">|<img src="img/caidat.jpg" alt="feed example" width="220">|
 
 #### Search User | User Profile | User Post
 |<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
 
 
-
 #### Home feed | Seen/Unseen Story
-|  <img src="https://user-images.githubusercontent.com/60619133/95440424-907f8800-0976-11eb-9ead-b455529884f5.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440399-89587a00-0976-11eb-8e6f-ac27f8528b2e.jpg" alt="feed example" width = "220">|
+|<img src="img/story.jpg" alt="feed example" width="220">|<img src="img/themtin.jpg" alt="feed example" width="220">|
 
 #### Comment | Post Photo | Notification Panel
-|![Comment](comment.gif) |<img src="https://user-images.githubusercontent.com/60619133/95440445-94aba580-0976-11eb-9bab-c4fb3b66c915.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440403-8b223d80-0976-11eb-86ee-5b395df5009e.jpg" alt="feed example" width = "220">
+|<img src="img/binhluan.jpg" alt="feed example" width="220">|<img src="img/thembaiviet.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
 
 #### Conversation | Push Notification
-|<img src="https://user-images.githubusercontent.com/60619133/95440411-8d849780-0976-11eb-8ca7-b82a6a0632e3.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440431-91181e80-0976-11eb-90c1-c3e157d294c0.jpg" alt="feed example" width = "220">|
+|<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
 
 ## Module used
 * [Cardview](https://developer.android.com/jetpack/androidx/releases/cardview)
