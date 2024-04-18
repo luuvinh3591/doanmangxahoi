@@ -1,4 +1,4 @@
-# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram-clone
+# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="img/Logo.jpg" />InLove
 
 ### Built With
 
@@ -10,7 +10,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Connect with me:
-[<img align="left" alt="androrealm | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://rb.gy/r4yzzi)
+[<img align="left" alt="androrealm | Facebook" width="30px" src="img/Facebook_Logo.png" />](https://www.facebook.com/nguyenluuvinh0412)
 [<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nguyenluuvinh_/).
 
 ## Features
