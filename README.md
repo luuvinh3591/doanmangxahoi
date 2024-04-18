@@ -45,7 +45,8 @@
 |<img src="https://user-images.githubusercontent.com/60619133/95440444-94130f00-0976-11eb-81c2-2c5bb0fcf963.jpg" alt="feed example" width = "220">|
 
 #### Search User | User Profile | User Post
-|<img src="https://user-images.githubusercontent.com/60619133/95440437-92e1e200-0976-11eb-9ab8-56732f531628.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440435-92494b80-0976-11eb-91a1-726b032f0c11.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440394-878eb680-0976-11eb-8a37-f2e0c2899778.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/95440415-8e1d2e00-0976-11eb-8a58-34a745e83731.jpg" alt="feed example" width = "220">|
+|<img src="img/dangnhap.jpg" alt="feed example" width="220">|<img src="img/home.jpg" alt="feed example" width="220">|<img src="img/pro.jpg" alt="feed example" width="220">|
+
 
 
 #### Home feed | Seen/Unseen Story
